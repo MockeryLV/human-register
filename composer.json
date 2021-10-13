@@ -1,0 +1,6 @@
+{
+    "name": "mockery/human-list",
+    "require": {
+        "league/csv": "^9.7"
+    }
+}
